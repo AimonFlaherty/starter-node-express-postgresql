@@ -22,7 +22,7 @@ module.exports = {
 const config = {
   client: "postgresql",
   connection:
-    "postgres://myfakedatabase:8t6FiWqSDF8GsR--7mrun245I9TofnWd@fakepostgres.db.elephantsql.com:5432/myfakedatabase",
+    "postgres://zzmwzgsr:pknHs1N1hR0pLfISJTQcc3AWy0IugPXl@ruby.db.elephantsql.com/zzmwzgsr",
 };
 
 // Initialize a Knex instance by passing `config` as an argument to the Knex module
